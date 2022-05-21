@@ -1,1 +1,0 @@
-SELECT * FROM new_schema.cow;
